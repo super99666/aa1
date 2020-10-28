@@ -1,7 +1,5 @@
 #!/usr/bin/env python
-# coding: utf-8
 
-# In[16]:
 
 
 num=int(input("Enter a number:"))
@@ -15,7 +13,7 @@ for a in range(1,num+1):
     print()   
 
 
-# In[24]:
+
 
 
 def reverse(string): 
@@ -27,40 +25,6 @@ s = "ineuron"
 print (s) 
   
 print (reverse(s))
-
-
-# In[17]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
 
 
 

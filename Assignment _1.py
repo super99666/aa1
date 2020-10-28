@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[10]:
+
 
 
 n = []
@@ -11,7 +11,6 @@ for i in range(2000,2701):
 print(','.join(n)) 
 
 
-# In[13]:
 
 
 s = "sudheer pillala".split()
@@ -21,14 +20,9 @@ for i in s[::]:
     
 
 
-# In[14]:
-
 
 n      
        
-
-
-# In[17]:
 
 
 import math
@@ -39,8 +33,6 @@ volume = 3/4 * math.pi* math.pow(r,3)
 
 print("volume of sphere is:{0:2f}".format(volume))
 
-
-# In[ ]:
 
 
 
